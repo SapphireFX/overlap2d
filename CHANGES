@@ -1,3 +1,20 @@
+Overlap2D - 0.1.3
+------------------------------
+Bugfix:
+Rotated/scaled item accepts touch at actual borders.
+On item translation/rotation/scaling item follower follows its item instantly
+Transforming item by dragging anchor point - edge extends along its normal independent of rotation
+
+Improvement:
+Composite item manual resize support
+
+
+Overlap2D - 0.1.2
+------------------------------
+Drop down for library items and images to delete from resource panel
+It is now possible to copy items if dragged while ALT is pressed
+Fixed Button preview and layer visibility bug for buttons
+
 Overlap2D - 0.1.1 (skipping 0.0.9)
 ------------------------------
 
@@ -5,7 +22,7 @@ Plugin system
 Performance display Plugin
 Fixed bug with layers not working normally - and undo redo actisn related to that
 Fixed bug with copying and pasting composite
-
+*Other things (I was lazy to write this down)
 
 Overlap2D - 0.1.0 (skipping 0.0.9)
 ------------------------------
